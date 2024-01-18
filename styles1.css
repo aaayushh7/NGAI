@@ -101,7 +101,7 @@ text-align:right;
  position:relative;
  background:#fff;
  color:#fff;
- text transform:uppercase;
+ text-transform:uppercase;
  padding:10px 30px;
  font-size:1.5em;
  background:transparent;
@@ -423,7 +423,7 @@ font-size:12pt;
 }
 .Domains h2{
 color:#fff;
-font-size:36px
+font-size:36px;
 font-weight:600;
 text-align:center;
 }
@@ -484,7 +484,7 @@ text-justify: auto;
     animation: bounce 0.9s infinite;
 }
 @keyframes bounce{
-   30s,50%,50%,to{
+   30%,50%,50%,to{
      transform:translateY(0);}
    40%{
      transform:translateY(-4px);}
@@ -534,7 +534,7 @@ text-justify: auto;
     animation: bounce 0.9s infinite;
 }
 @keyframes bounce{
-   30s,50%,50%,to{
+   30%,50%,50%,to{
      transform:translateY(0);}
    40%{
      transform:translateY(-4px);}
@@ -585,7 +585,7 @@ text-justify: auto;
     animation: bounce 0.9s infinite;
 }
 @keyframes bounce{
-   30s,50%,50%,to{
+   30%,50%,50%,to{
      transform:translateY(0);}
    40%{
      transform:translateY(-4px);}
